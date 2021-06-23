@@ -1,2 +1,2 @@
 # JavaScript
- JavaScriptProjects
+ JavaScript Projects
